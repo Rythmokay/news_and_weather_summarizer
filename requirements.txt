@@ -1,0 +1,20 @@
+# Streamlit - Web Application Framework for Data Apps
+streamlit>=1.30.0
+
+# Requests - Lightweight HTTP Library for API calls (Open-Meteo, Gemini API, Ollama API)
+requests>=2.31.0
+
+# Feedparser - RSS Feed Parser for News Headlines
+feedparser>=6.0.10
+
+# BeautifulSoup4 - HTML Text Sanitization and Cleaning
+beautifulsoup4>=4.12.0
+
+# Pandas - Data Structures & Data Manipulation
+pandas>=2.0.0
+
+# Plotly - Interactive Weather Trend Charts
+plotly>=5.18.0
+
+# Python-Dotenv - Environment Variable Management (.env file loader)
+python-dotenv>=1.0.0
